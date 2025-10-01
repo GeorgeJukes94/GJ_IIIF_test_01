@@ -1,0 +1,128 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "LSE Collections",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "A sample of digitised archives held at the London School of Economics. This in includes a poster about Tariff Reform in the UK, an anti 'Kulak' poster from the Soviet Union, and a map of East Dulwich, Peckham Rye, and Camberwell created as part of Charles Booth's Poverty Maps.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "All items are Out of Copyright and Public Domain.",
+  "sequences" : [ {
+    "@id" : "http://a6afe71f-992d-4572-bd88-a34e01e14d55",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "viewingHint" : "individuals",
+    "canvases" : [ {
+      "@id" : "http://9f6151ce-f163-4df8-a6bc-02eb48678386",
+      "@type" : "sc:Canvas",
+      "label" : "We are voting for Tariff Reform",
+      "height" : 1199,
+      "width" : 852,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d5abacdc-f0cd-4711-b015-df6c7027761a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archive.org/image/iiif/2/tariff_reform_test%2fUKLSE_DL1_PO01_001_004_0074_0001.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/image/iiif/2/tariff_reform_test%2fUKLSE_DL1_PO01_001_004_0074_0001.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 1021548,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 1199,
+          "width" : 852
+        },
+        "on" : "http://9f6151ce-f163-4df8-a6bc-02eb48678386"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1e3230bc-2508-4736-af0b-2860bab87947",
+      "@type" : "sc:Canvas",
+      "label" : "Away with Private Peasants!",
+      "height" : 916,
+      "width" : 1149,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2f9beeda-439f-468f-a990-e74509cf23fb",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archive.org/image/iiif/2/away_with_private_peasants_test%2fUKLSE_DL1_PO01_001_002_0001_0001.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/image/iiif/2/away_with_private_peasants_test%2fUKLSE_DL1_PO01_001_002_0001_0001.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 1052484,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 916,
+          "width" : 1149
+        },
+        "on" : "http://1e3230bc-2508-4736-af0b-2860bab87947"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c6ed3a99-2fcd-4087-b2d0-0fd0e1b9362f",
+      "@type" : "sc:Canvas",
+      "label" : "Booth Hand Coloured Map",
+      "height" : 6954,
+      "width" : 10044,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6cd454f1-d2ac-4642-a2f1-d9755059590c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archive.org/image/iiif/2/booth_map_test%2fUKLSE_DL1_CB01_004_001_0059_0001.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/image/iiif/2/booth_map_test%2fUKLSE_DL1_CB01_004_001_0059_0001.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 69845976,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 6954,
+          "width" : 10044
+        },
+        "on" : "http://c6ed3a99-2fcd-4087-b2d0-0fd0e1b9362f"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Content",
+    "viewingHint" : "top",
+    "ranges" : [ "http://example.org/iiif/book1/range/intro" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/intro",
+    "@type" : "sc:Range",
+    "label" : "All images",
+    "canvases" : [ "http://9f6151ce-f163-4df8-a6bc-02eb48678386", "http://1e3230bc-2508-4736-af0b-2860bab87947", "http://c6ed3a99-2fcd-4087-b2d0-0fd0e1b9362f" ]
+  } ]
+}
