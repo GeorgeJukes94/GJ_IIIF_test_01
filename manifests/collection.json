@@ -1,0 +1,13 @@
+{
+  "id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in GeorgeJukes94/GJ_IIIF_test_01 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/manifest2.json",
+    "label" : "LSE Collections"
+  } ]
+}
