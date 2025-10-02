@@ -1,0 +1,86 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/project-manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Booth Hand Coloured Maps",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "The following manifest showcases 2 hand-coloured maps from Booth's Inquiry into the Life and Labour of the people of London. The first map shows East Dulwich and Peckham Rye, while the second map shows the City of London and Holborn.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "All items are Out of Copyright and Public Domain.",
+  "sequences" : [ {
+    "@id" : "http://8a69d002-1180-4faa-98fd-1b927dca6a0e",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "viewingHint" : "individuals",
+    "canvases" : [ {
+      "@id" : "http://2224cd4e-6985-44ed-8653-d4341170a31e",
+      "@type" : "sc:Canvas",
+      "label" : "East Dulwich and Peckham Rye",
+      "height" : 6954,
+      "width" : 10044,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://420f18c1-e432-4ad8-9a42-3b8c5acf5ed2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : " http://127.0.0.1:8182/iiif/2/UKLSE_DL1_CB01_004_001_0059_0001.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : " http://127.0.0.1:8182/iiif/2/UKLSE_DL1_CB01_004_001_0059_0001.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "maxArea" : 10000000,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 6954,
+          "width" : 10044
+        },
+        "on" : "http://2224cd4e-6985-44ed-8653-d4341170a31e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://54794745-649a-4a4c-a14d-a96d453993a3",
+      "@type" : "sc:Canvas",
+      "label" : "The City and Holborn",
+      "height" : 6864,
+      "width" : 9851,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ca7c1786-dc7a-43d7-a11d-8c96acaf4df3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/UKLSE_DL1_CB01_004_001_0030_0001.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/UKLSE_DL1_CB01_004_001_0030_0001.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "maxArea" : 10000000,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 6864,
+          "width" : 9851
+        },
+        "on" : "http://54794745-649a-4a4c-a14d-a96d453993a3"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
