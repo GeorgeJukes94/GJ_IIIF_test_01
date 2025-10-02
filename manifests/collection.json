@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/manifest2.json",
     "label" : "LSE Collections"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/project-manifest.json",
+    "label" : "Booth Hand Coloured Maps"
   } ]
 }
