@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/annotations/east-dulwich-peckham-rye-anno.json" ],
+  "otherContent" : [ "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/annotations/east-dulwich-peckham-rye-anno.json", "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/annotations/the-city-and-holborn.json" ],
   "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/annotations/collection.json",
   "label" : "All annotations loaded in GeorgeJukes94/GJ_IIIF_test_01 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
