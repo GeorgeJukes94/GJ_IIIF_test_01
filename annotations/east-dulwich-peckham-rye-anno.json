@@ -1,0 +1,303 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Goose Green",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Goose Green</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164535864",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-10-03T10:25:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1759487117570",
+    "dcterms:modified" : "2025-10-03T10:25:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/project-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5098,1247,1256,600"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5097.73088,1794.45476l694.48944,-427.91774l59.62788,-7.01504l199.92878,-87.68806l49.10531,-24.55266l252.54161,252.54161l-206.94382,80.67302l-59.62788,14.03009l-578.7412,129.77833l-305.15445,122.76328z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_a0f10349-caf0-419a-9aee-db2a496b215b\" fill-opacity=\"0.26\" fill=\"#35c8fa\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2224cd4e-6985-44ed-8653-d4341170a31e"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Rough location of Dulwich Village",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Rough location of Dulwich Village</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164535864",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-10-03T10:34:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1759487641026",
+    "dcterms:modified" : "2025-10-03T10:34:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/project-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1697,4898,1369,1303"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2288.02703,4898.31126l722.26902,757.62484l55.55916,545.48989l-1025.31895,-10.10166l-343.4566,-989.96313z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_80a2936f-2604-4a41-8cb1-d5bdfa39a3e3\" fill-opacity=\"0.26\" fill=\"#35c8fa\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2224cd4e-6985-44ed-8653-d4341170a31e"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "St. Clements Church",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>St. Clements Church</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164535864",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-10-03T10:28:39",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1759487319234",
+    "dcterms:modified" : "2025-10-03T10:28:39",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/project-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=6713,4916,205,163"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6758.79426,4915.73899l159.59227,64.88916l-38.58275,98.21063l-166.60732,-71.90421l45.59779,-87.68806z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_d027f103-f3c0-48fb-9e8c-1ac97ab66339\" fill-opacity=\"0.26\" fill=\"#35c8fa\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2224cd4e-6985-44ed-8653-d4341170a31e"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Rough site of the future William Penn and later Charter Schools.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Rough site of the future William Penn and later Charter Schools.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164535864",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-10-03T10:31:57",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1759487517625",
+    "dcterms:modified" : "2025-10-03T10:31:57",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/project-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1225,3235,854,1020"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1699.46043,3234.95857l-287.89744,247.49078l-186.88079,237.38912l272.74494,535.38822l580.84571,-363.65992l-378.81242,-656.6082z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_b1f9179e-41f2-450b-9b70-f34ae65c9906\" fill-opacity=\"0.26\" fill=\"#35c8fa\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2224cd4e-6985-44ed-8653-d4341170a31e"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "East Dulwich Grove",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>East Dulwich Grove</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164535864",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-10-03T10:33:08",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1759487588607",
+    "dcterms:modified" : "2025-10-03T10:33:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/project-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2863,2767,1303,1338"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2863.18643,3751.52641l116.16914,-454.57491l116.16914,-212.13496l55.55916,15.1525l166.67747,-156.5758l70.71165,65.66082l479.82907,-242.43995l146.47414,388.91409l151.52497,242.43995l-65.66082,101.01665l-363.65992,227.28745l-515.18489,378.81242z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_47d06d0b-009f-4142-afc6-8c44195faa41\" fill-opacity=\"0.26\" fill=\"#35c8fa\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2224cd4e-6985-44ed-8653-d4341170a31e"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Peckham Rye Common and Park",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Peckham Rye Common and Park</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164535864",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-10-03T10:23:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1759487035762",
+    "dcterms:modified" : "2025-10-03T10:24:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/project-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=7345,363,2534,4163"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M7374.74589,363.29518l-30.16341,829.49374l150.81704,1357.3534l784.24863,1855.04964l271.47068,-60.32682l60.32682,180.98045l1266.86317,-678.6767l-15.0817,-1251.78146l-904.90226,-512.77795l-1070.80101,-874.73885l-301.63409,-844.57545h-196.06216z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_a901ba45-79e2-48be-a2bc-8a74fc8a12be\" fill-opacity=\"0.26\" fill=\"#35c8fa\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"100.5447\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2224cd4e-6985-44ed-8653-d4341170a31e"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Camberwell Cemetery",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Camberwell Cemetery</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164535864",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-10-03T10:26:26",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1759487186175",
+    "dcterms:modified" : "2025-10-03T10:26:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/project-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=7993,5282,1495,919"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M8160.03956,6201.42599l-166.67747,-328.3041l272.74494,-161.62663l333.35493,-429.32074l454.57491,560.64238l202.03329,-161.62663l196.98246,343.4566l-45.45749,60.60999l80.81332,106.06748z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_52a8c366-e3a8-414e-9c87-ecc5501e0c13\" fill-opacity=\"0.26\" fill=\"#35c8fa\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2224cd4e-6985-44ed-8653-d4341170a31e"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "St. Barnabas's CHurch",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>St. Barnabas's CHurch</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164535864",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-10-03T10:29:21",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1759487361837",
+    "dcterms:modified" : "2025-10-03T10:29:21",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/project-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3134,5002,202,179"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3285.56885,5181.33607l-151.52497,-58.08457l50.50832,-121.21997l151.52497,73.23707z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_8eada349-590b-4e8e-a845-bac68c3872b8\" fill-opacity=\"0.26\" fill=\"#35c8fa\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2224cd4e-6985-44ed-8653-d4341170a31e"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "North Dulwich Train Station",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>North Dulwich Train Station</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164535864",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-10-03T10:30:10",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1759487410769",
+    "dcterms:modified" : "2025-10-03T10:30:10",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/project-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1700,4486,252,174"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1700.13033,4486.35201h126.0081v0h126.0081v86.86415v86.86415h-126.0081h-126.0081v-86.86415z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ad9af531-961c-48fc-93d8-f06029197a2b\" fill-opacity=\"0.26\" fill=\"#35c8fa\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2224cd4e-6985-44ed-8653-d4341170a31e"
+    } ]
+  } ],
+  "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/annotations/east-dulwich-peckham-rye-anno.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
