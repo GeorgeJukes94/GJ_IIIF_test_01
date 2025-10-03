@@ -1,0 +1,369 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Lincoln's Inn Fields",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Lincoln's Inn Fields</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164535864",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-10-03T10:39:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1759487959223",
+    "dcterms:modified" : "2025-10-03T10:39:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/project-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2755,2562,956,784"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3013.76106,3345.91438l697.50298,-276.84397l-219.31795,-506.94804l-737.05212,269.65321z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_513b41e7-8b93-405c-b153-5f0e824ce2ab\" fill-opacity=\"0.26\" fill=\"#35c8fa\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"28.76301\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://54794745-649a-4a4c-a14d-a96d453993a3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The City of London (roughly)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The City of London (roughly)</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164535864",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-10-03T10:42:35",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1759488155059",
+    "dcterms:modified" : "2025-10-03T10:42:35",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/project-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4043,392,5573,5370"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4647.36495,5153.33475l-447.14506,-930.54513l713.0151,-277.95504l-48.34001,-181.27503l-217.53003,36.25501l-181.27503,-870.12012l-422.97506,-700.9301l120.85002,12.085l36.25501,-96.68001l1317.26518,217.53003l-330.16225,-1604.69486l1009.33934,-330.64565l3419.57207,-34.8048v5370.38138l-922.32733,-295.84084l-1000.63814,-234.93243l-1183.36336,-113.11562l-208.82883,34.8048z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_4c80994a-925e-4875-803b-ca907e88feba\" fill-opacity=\"0.26\" fill=\"#35c8fa\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://54794745-649a-4a4c-a14d-a96d453993a3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Rough location of the future London School of Economics",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Rough location of the future London School of Economics</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164535864",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-10-03T10:36:54",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1759487814372",
+    "dcterms:modified" : "2025-10-03T10:36:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/project-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3020,3455,732,815"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3020.34605,3455.25713h365.93068v0h365.93068v407.27751v407.27751h-365.93068h-365.93068v-407.27751z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c5937343-43e5-41d1-aa52-a51fd620cf42\" fill-opacity=\"0.26\" fill=\"#35c8fa\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://54794745-649a-4a4c-a14d-a96d453993a3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Bloomsbury Square",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Bloomsbury Square</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164535864",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-10-03T10:39:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1759487990584",
+    "dcterms:modified" : "2025-10-03T10:39:50",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/project-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1417,1618,472,504"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1417.16996,1775.34932l224.71101,-157.29771l247.18211,349.55046l-209.73028,154.80092z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_16531f59-5e7b-466e-a6de-e52675025672\" fill-opacity=\"0.26\" fill=\"#35c8fa\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://54794745-649a-4a4c-a14d-a96d453993a3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Royal Courts of Justice",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Royal Courts of Justice</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164535864",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-10-03T10:37:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1759487837844",
+    "dcterms:modified" : "2025-10-03T10:37:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/project-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3782,3438,698,669"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3782.16881,3599.87368l528.5203,-161.79193l168.98268,503.35266l-532.11567,165.3873z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_3e612848-ab87-45a1-9368-6a3fe812f5b9\" fill-opacity=\"0.26\" fill=\"#35c8fa\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://54794745-649a-4a4c-a14d-a96d453993a3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "St. Clement Danes Church",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>St. Clement Danes Church</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164535864",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-10-03T10:38:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1759487881692",
+    "dcterms:modified" : "2025-10-03T10:38:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/project-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3860,4169,168,111"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3878.70763,4279.88234l149.11379,-31.20986l-12.13717,-79.75854l-156.04931,20.80658z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_f24d2e2f-371e-4aaa-84b1-d410071efa57\" fill-opacity=\"0.26\" fill=\"#35c8fa\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://54794745-649a-4a4c-a14d-a96d453993a3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Somerset House",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Somerset House</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164535864",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-10-03T10:34:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1759487695366",
+    "dcterms:modified" : "2025-10-03T10:34:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/project-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2660,4723,735,709"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2898.25639,5431.86154l497.0248,-222.62569l-217.44835,-486.67012l-517.73417,238.15772z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_eba60b8b-15e0-4fd7-986a-d9bfbb4482b4\" fill-opacity=\"0.26\" fill=\"#35c8fa\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://54794745-649a-4a4c-a14d-a96d453993a3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Waterloo Bridge",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Waterloo Bridge</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164535864",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-10-03T10:35:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1759487744027",
+    "dcterms:modified" : "2025-10-03T10:35:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/project-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2829,5522,557,759"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2987.61809,5522.29409l-158.19655,57.52602l352.34687,701.09835l204.93644,-10.78613z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_816e0237-3175-4e21-aab5-bd5e4ca7d6ae\" fill-opacity=\"0.26\" fill=\"#35c8fa\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://54794745-649a-4a4c-a14d-a96d453993a3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Royal College of Surgeons",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Royal College of Surgeons</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164535864",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-10-03T10:38:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1759487918734",
+    "dcterms:modified" : "2025-10-03T10:38:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/project-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3006,3244,512,320"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3006.10683,3399.16162l434.44129,-154.80092l77.40046,167.28486l-466.89955,152.30413z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_ea41526c-4f6f-4e39-8daa-aab43b724e0a\" fill-opacity=\"0.26\" fill=\"#35c8fa\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://54794745-649a-4a4c-a14d-a96d453993a3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Gray's Inn",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Gray's Inn</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164535864",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-10-03T10:40:20",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1759488020454",
+    "dcterms:modified" : "2025-10-03T10:40:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/project-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3455,878,884,935"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3721.18926,1808.95373l618.4047,-168.98268l-294.82085,-762.21975l-589.64169,215.72257l262.46246,719.07524z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_3f41e7fc-fa01-4d77-a282-938c84dd3430\" fill-opacity=\"0.26\" fill=\"#35c8fa\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://54794745-649a-4a4c-a14d-a96d453993a3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Rough site of Covent Garden",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Rough site of Covent Garden</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164535864",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-10-03T10:40:51",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1759488051286",
+    "dcterms:modified" : "2025-10-03T10:40:51",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/project-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=907,4215,1552,725"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M907.17258,4215.04803h776.1279v0h776.1279v362.33782v362.33782h-776.1279h-776.1279v-362.33782z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_0466261e-46a8-4042-b975-ddd4d360278c\" fill-opacity=\"0.26\" fill=\"#35c8fa\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://54794745-649a-4a4c-a14d-a96d453993a3"
+    } ]
+  } ],
+  "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/annotations/the-city-and-holborn.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
