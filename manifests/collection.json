@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/project-manifest.json",
     "label" : "Booth Hand Coloured Maps"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/project-manifest-annotations.json",
+    "label" : "Booth Hand Coloured Maps"
   } ]
 }
