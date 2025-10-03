@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://GeorgeJukes94.github.io/GJ_IIIF_test_01/manifests/project-manifest-annotations.json",
   "@type" : "sc:Manifest",
-  "label" : "Booth Hand Coloured Maps",
+  "label" : "Booth Hand Coloured Maps with Annotations",
   "service" : {
     "profile" : "http://iiif.io/api/search/0/search",
     "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/164535864/31273d10d813783f91a21d59969e4cca/search",
